@@ -1,0 +1,25 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+img {
+    width: 310px;
+    height: auto;
+}
+
+ul, ol {
+    background-color: blue;
+    width: 500px;
+}
+
+li {
+    color: white;
+}
+
+a {
+    color: white;
+}
