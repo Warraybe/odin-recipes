@@ -30,8 +30,6 @@ a:hover {
 }
 
 .recipe-list {
-    width: 50%;
-    margin: auto;
     list-style-type: none;
     margin: auto;
     padding: 0;
@@ -41,4 +39,9 @@ a:hover {
     width: 500px;
     margin: auto;
     text-align: center;
+}
+
+.list {
+    width: 50%;
+    margin: auto;
 }
