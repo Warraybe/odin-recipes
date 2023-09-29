@@ -48,4 +48,9 @@ a:hover {
 
 .ingredient-list {
     text-align: left;
+    background-color: bisque;
+}
+
+.ingredient-list li {
+    color: grey;
 }
