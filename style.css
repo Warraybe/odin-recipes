@@ -49,6 +49,7 @@ a:hover {
 .ingredient-list {
     text-align: left;
     background-color: bisque;
+    padding: 8px 25px;
 }
 
 .ingredient-list li {
